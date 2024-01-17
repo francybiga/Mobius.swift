@@ -1,52 +1,68 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "CwlCatchException",
-        "repositoryURL": "https://github.com/mattgallagher/CwlCatchException.git",
-        "state": {
-          "branch": null,
-          "revision": "f809deb30dc5c9d9b78c872e553261a61177721a",
-          "version": "2.0.0"
-        }
-      },
-      {
-        "package": "CwlPreconditionTesting",
-        "repositoryURL": "https://github.com/mattgallagher/CwlPreconditionTesting.git",
-        "state": {
-          "branch": null,
-          "revision": "c21f7bab5ca8eee0a9998bbd17ca1d0eb45d4688",
-          "version": "2.1.0"
-        }
-      },
-      {
-        "package": "Nimble",
-        "repositoryURL": "https://github.com/Quick/Nimble",
-        "state": {
-          "branch": null,
-          "revision": "1f3bde57bde12f5e7b07909848c071e9b73d6edc",
-          "version": "10.0.0"
-        }
-      },
-      {
-        "package": "Quick",
-        "repositoryURL": "https://github.com/Quick/Quick",
-        "state": {
-          "branch": null,
-          "revision": "f9d519828bb03dfc8125467d8f7b93131951124c",
-          "version": "5.0.1"
-        }
-      },
-      {
-        "package": "swift-case-paths",
-        "repositoryURL": "https://github.com/pointfreeco/swift-case-paths",
-        "state": {
-          "branch": null,
-          "revision": "bb436421f57269fbcfe7360735985321585a86e5",
-          "version": "0.10.1"
-        }
+  "pins" : [
+    {
+      "identity" : "cwlcatchexception",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mattgallagher/CwlCatchException.git",
+      "state" : {
+        "revision" : "f809deb30dc5c9d9b78c872e553261a61177721a",
+        "version" : "2.0.0"
       }
-    ]
-  },
-  "version": 1
+    },
+    {
+      "identity" : "cwlpreconditiontesting",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mattgallagher/CwlPreconditionTesting.git",
+      "state" : {
+        "revision" : "c21f7bab5ca8eee0a9998bbd17ca1d0eb45d4688",
+        "version" : "2.1.0"
+      }
+    },
+    {
+      "identity" : "nimble",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Quick/Nimble",
+      "state" : {
+        "revision" : "1f3bde57bde12f5e7b07909848c071e9b73d6edc",
+        "version" : "10.0.0"
+      }
+    },
+    {
+      "identity" : "quick",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Quick/Quick",
+      "state" : {
+        "revision" : "f9d519828bb03dfc8125467d8f7b93131951124c",
+        "version" : "5.0.1"
+      }
+    },
+    {
+      "identity" : "swift-case-paths",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-case-paths",
+      "state" : {
+        "revision" : "76d7791b5bda47df7e3d4690c4c3aaf089730707",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "43c802fb7f96e090dde015344a94b5e85779eff1",
+        "version" : "509.1.0"
+      }
+    },
+    {
+      "identity" : "xctest-dynamic-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state" : {
+        "revision" : "23cbf2294e350076ea4dbd7d5d047c1e76b03631",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
 }
